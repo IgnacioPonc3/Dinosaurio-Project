@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 07f26a652dfd0d349b975647540bea80
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Mrs. Monster
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 8af2d7b0b1f93fb42aac3694536b1774, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
